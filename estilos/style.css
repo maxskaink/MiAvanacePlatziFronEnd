@@ -72,6 +72,7 @@ section {
     border-left: 1px solid white;
     box-sizing: border-box;
     padding: 7px;
+    transition: 800ms all;
 }
 .header ul li:hover {
     border-right: 0;
@@ -108,6 +109,10 @@ section {
     padding: 10px 40px;
     padding-bottom: 40px;
     border: 2px solid black;
+    transition: 450ms all;
+}
+.aprendido article:hover {
+    transform: scale(1.1);
 }
 .aprendido h3 {
     font-size: 40px;
@@ -117,10 +122,6 @@ section {
 .aprendido img {
     margin: 0px 40px;
 }
-/* .aprendido img:hover {
-    width: 110%;
-    height: 110%;
-} */
 .aprendido p {
     text-align: left;
     width: 300px;
