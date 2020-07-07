@@ -132,10 +132,15 @@ section {
 
 .Ilike {
     display: flex;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     box-sizing: border-box;
     object-fit: cover;
     justify-content: space-evenly;
+    /* overflow: scroll; */
+    overflow: hidden;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
 }
 .Ilike article {
     display: flex;
@@ -150,6 +155,11 @@ section {
     background-color: #0169c48a;
     border-radius: 20px;
     border: 1px solid black;
+    transition: 480ms all;
+
+}
+.Ilike article:hover {
+    transform: scale(1.1);
 }
 .Ilike h3 {
     border: 1px solid black;
