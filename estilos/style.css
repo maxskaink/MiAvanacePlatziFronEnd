@@ -137,7 +137,7 @@ section {
 
 .Ilike {
     display: flex;
-    /* flex-wrap: wrap; */
+    flex-wrap: wrap;
     box-sizing: border-box;
     object-fit: cover;
     justify-content: space-evenly;
