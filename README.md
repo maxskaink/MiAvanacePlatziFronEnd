@@ -5,3 +5,4 @@ Primero: Recomiendo estar en un computador ya que fue disellado para ello, si se
 Tambien creo que es importante remarcar de que es un proyecto simple, y no es la mayor cosa, sin embargo poco a poco ire mejorando
 # Si quieres entrar a la pagina
 Entra a este link: https://maxskaink.github.io/MiAvanacePlatziFronEnd/
+# Rercuerda, esto es solo de prueba, no va a hacer mi pagina que me represente totalmente
